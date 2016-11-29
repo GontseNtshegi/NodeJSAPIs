@@ -1,0 +1,8 @@
+{
+    "name": "NodeJsApplication",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "ntshegg",
+    "contributors": [],
+    "dependencies": {"express":"~4.14.0","body-parser":"1.15.2"}
+}
